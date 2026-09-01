@@ -1,6 +1,7 @@
-# UPDATED: 2026-08-25T11:14:44+08:00
+# UPDATED: 2026-09-01T15:51:47+08:00
 DOMAIN-SUFFIX,null
 DOMAIN-SUFFIX,undefined
+DOMAIN,data.bilibili.com
 DOMAIN-SUFFIX,femetrics.qagr.io
 DOMAIN,stats.grafana.org
 DOMAIN-SUFFIX,data.grammarly.com
