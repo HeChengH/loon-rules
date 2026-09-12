@@ -1,4 +1,4 @@
-# UPDATED: 2026-09-09T22:07:35+08:00
+# UPDATED: 2026-09-12T12:37:48+08:00
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,0x0.st
 DOMAIN,eep.io
@@ -6412,6 +6412,7 @@ DOMAIN,cdnw.mikuclub.fun
 DOMAIN,cdnx.mikuclub.fun
 DOMAIN,cdny.mikuclub.fun
 DOMAIN,cdnz.mikuclub.fun
+DOMAIN,assets.freshdesk.com
 AND,((DOMAIN-SUFFIX,gigya.com),(DOMAIN-KEYWORD,cdns.))
 DOMAIN,img0.porngo.com
 DOMAIN,img1.porngo.com
@@ -7818,6 +7819,11 @@ DOMAIN,img.x.porngo.com
 DOMAIN,img.y.porngo.com
 DOMAIN,img.z.porngo.com
 AND,((DOMAIN-SUFFIX,pornone.com),(DOMAIN-KEYWORD,th-))
+DOMAIN-SUFFIX,browser-intake-us3-datadoghq.com
+DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
+DOMAIN-SUFFIX,browser-intake-ap1-datadoghq.com
+DOMAIN-SUFFIX,browser-intake-ap2-datadoghq.com
+DOMAIN-SUFFIX,browser-intake-uk1-datadoghq.com
 AND,((DOMAIN-SUFFIX,datadoghq.com),(DOMAIN-KEYWORD,-intake.))
 DOMAIN,video-thumbnail2.fc2.com
 DOMAIN,video0-thumbnail0.fc2.com
