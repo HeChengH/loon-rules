@@ -1,4 +1,4 @@
-# UPDATED: 2026-11-19T18:26:37+08:00
+# UPDATED: 2026-11-20T18:06:39+08:00
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,0x0.st
 DOMAIN,eep.io
@@ -4061,6 +4061,7 @@ DOMAIN,axiecdn.axieinfinity.com
 DOMAIN,brick.freetls.fastly.net
 DOMAIN-SUFFIX,buildkiteusercontent.com
 DOMAIN-SUFFIX,bundle.thimatic-apps.com
+DOMAIN-SUFFIX,butterfly-effect-cdn.dev
 DOMAIN,cache.omnicalculator.com
 DOMAIN,cdn-image01.casetify.com
 DOMAIN,cdn-image02.casetify.com
@@ -4167,6 +4168,7 @@ DOMAIN,app-static.sendsafely.com
 DOMAIN,asset-cdn.uscardforum.com
 DOMAIN,assets.map.brightcove.com
 DOMAIN,assets.media-platform.com
+DOMAIN,assets.monetizationos.com
 DOMAIN,assets.openalternative.co
 DOMAIN-SUFFIX,assets.shortbread.aws.dev
 DOMAIN,assets.squarewebsites.org
